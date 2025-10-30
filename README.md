@@ -1,15 +1,8 @@
 # 👋 Hey there, I’m Nathan Asferi!
-
+> 🚀 Aspiring Software Engineer | CS Student at George Mason University | Building with Full-Stack, AI/ML, and Game Dev tools.
 ---
 
-## 🧠 Education
-
-- 🎓 Currently pursuing a **B.S. in Computer Science** at **George Mason University**
-- 📚 This semester I'm learning **Computer Systems & Programming**, **Analysis of Algorithms**, & **Software Engineering**
-
----
-
-## 🧰 Tech Stack
+##  🛠️ Tech Stack
 
 **Languages:** <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" alt="Python"/></a> <a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="25" height="25" alt="Java"/></a> <a href="https://www.c-language.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="25" height="25" alt="C"/></a> <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="25" height="25" alt="C++"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="25" width="25" alt="C#"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" height="25" alt="JavaScript"/></a>
 
@@ -21,16 +14,23 @@
 
 ## 🧩 Personal Projects
 
-Here are a few things I’ve built or am working on:
+These are a few projects I am working on:
 
-- 🕹️ **cyEngine** – A C++ game engine in development using GLFW + OpenGL  
-- 🎲 **D&D Rules AI** – An AI assistant trained on D&D 5e data using Python + NLP   
-- 🦑 **UAV Blimp Project** – A biologically inspired blimp
+- 🕹️ **cyEngine** – A C++ game engine in development using GLFW and OpenGL for low-level graphics control and 3D rendering.  
+- 🎲 **D&D Rules AI** – An AI assistant built with Python and NLP (Natural Language Processing) to instantly answer complex Dungeons & Dragons 5e rules queries.
+- 🦑 **BLIMP** – A biologically inspired Unmanned Aerial Vehicle (UAV) blimp project focused on novel navigation and control systems. For more information visit: https://www.mix.gmu.edu/blimp
 
 ---
 
-## 🗣️ Let’s Connect
+## 🏫 Education & Focus
+
+- 🎓 Pursuing a **B.S. in Computer Science** at **George Mason University**
+- 📚 Semester Focus: **Computer Systems & Programming**, **Analysis of Algorithms**, & **Software Engineering**
+
+---
+
+## 🗣️ Let’s Connect!
 
 - 🌍 [Portfolio Website](https://nateasferi.github.io/portfolio-site/)
 - 💼 [LinkedIn](www.linkedin.com/in/nathan-asferi)  
-- 📧 [Email Me](nathanasferi0@gmail.com) 
+- 📧 [Email](nathanasferi0@gmail.com) 
